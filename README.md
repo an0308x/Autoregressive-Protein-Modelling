@@ -12,7 +12,7 @@ Unofficial PyTorch implementation of [PAR](https://arxiv.org/abs/2602.04883) (Qu
 
 ## Overview
 
-PAR is the **first multi-scale autoregressive framework** for protein backbone generation. It generates Cα backbone structures coarse-to-fine via next-scale prediction — analogous to sculpting: first a rough topology, then progressively finer structural details.
+PAR is the **first multi-scale autoregressive framework** for protein backbone generation. It generates Cα backbone structures coarse-to-fine via next-scale prediction, analogous to sculpting a statue: first a rough topology, then progressively finer structural details.
 
 ### Key Components
 
